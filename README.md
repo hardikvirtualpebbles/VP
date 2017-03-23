@@ -1,3 +1,0 @@
-# VP
-Virtual Pebbles
-Hello
